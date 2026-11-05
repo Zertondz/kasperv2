@@ -1,0 +1,7 @@
+build/
+build-make/
+cmake-build-*/
+mangen
+.idea/
+.claude/
+.mcp.json

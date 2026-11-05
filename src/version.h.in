@@ -1,0 +1,11 @@
+/*
+ * version.h - сгенерирован из src/version.h.in при сборке, не редактировать.
+ */
+#ifndef MANGEN_VERSION_H
+#define MANGEN_VERSION_H
+
+#define MANGEN_VERSION "@MANGEN_VERSION@"
+#define MANGEN_GIT_HASH "@MANGEN_GIT_HASH@"
+#define MANGEN_AUTHOR "@MANGEN_AUTHOR@"
+
+#endif /* MANGEN_VERSION_H */
